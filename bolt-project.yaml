@@ -1,4 +1,4 @@
 ---
-# This file will make the current directory a project directory (requires bolt 2.10.0+)
-name: bolttest
+# This file make this a Bolt project directory (requires bolt 2.10.0+)
+name: test
 
