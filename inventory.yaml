@@ -1,0 +1,16 @@
+---
+version: 2
+groups:
+  - name: targets
+    targets:
+      - uri: target6
+      - uri: target7
+      - uri: target8
+  - name: controllers
+    targets:
+      - uri: bolt
+config:
+ transport: ssh
+ ssh:
+   user: vagrant
+   run-as: root
