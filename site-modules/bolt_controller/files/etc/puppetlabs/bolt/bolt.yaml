@@ -1,0 +1,7 @@
+---
+config:
+ transport: ssh
+ ssh:
+   user: vagrant
+   run-as: root
+
